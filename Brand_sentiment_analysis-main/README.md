@@ -1,4 +1,4 @@
-# Brand Sentiment Analysis Dashboard
+# Brand Sentiment Management Dashboard
 
 ## Overview
 This project is a dashboard for analyzing the sentiment of comments of Brand from YouTube and Reddit. It visualizes the data using various charts and tables to provide insights into customer sentiment.
